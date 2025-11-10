@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/-TryHackMe-00a9a5?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
 </a>
 
-I’m a cybersecurity professional passionate about protecting organizations from evolving digital threats. I am constantly improving my skillset and would love to collaborate with others to make the world a more secure place!
+I’m a cybersecurity professional passionate about protecting organizations from evolving digital threats. I specialize in SIEM implementation, threat detection, and incident response, with hands-on experience in both Blue Team and Red Team operations. I have built and managed cloud-based SOC environments, integrated case management tools like osTicket, and developed automated alerting and response workflows using Elastic Stack. I am constantly improving my skillset and enjoy collaborating with others to make the digital world a safer place.
 
 ## Objective
 
@@ -12,14 +12,20 @@ My journey has led me to develop a passion for cybersecurity, and I am eager to 
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill                                         | Project |
+|-----------------------------------------------|---------|
+| SIEM Implementation & Log Analysis            | [Cloud-SOC-Lab](https://github.com/rgdp1515/Cloud-SOC-lab) |
+| Security Automation with Elastic              | [Cloud-SOC-Lab](https://github.com/rgdp1515/Cloud-SOC-lab) |
+| Incident Response Planning & Execution        | [Cloud-SOC-Lab](https://github.com/rgdp1515/Cloud-SOC-lab) |
+| Case Management with osTicket                 | [Cloud-SOC-Lab](https://github.com/rgdp1515/Cloud-SOC-lab) |
+| Threat Detection & MITRE ATT&CK Mapping       | [Cloud-SOC-Lab](https://github.com/rgdp1515/Cloud-SOC-lab) |
+| Red Team Attack Simulation (Brute Force, RDP/SSH) | [Cloud-SOC-Lab](https://github.com/rgdp1515/Cloud-SOC-lab) |
+| C2 Server Deployment & Malware Analysis      | [Cloud-SOC-Lab](https://github.com/rgdp1515/Cloud-SOC-lab) |
+| Dashboard Visualization & Alerting in Elastic| [Cloud-SOC-Lab](https://github.com/rgdp1515/Cloud-SOC-lab) |
+| Network Traffic Monitoring & Investigation   | [Cloud-SOC-Lab](https://github.com/rgdp1515/Cloud-SOC-lab) |
+| Linux & Windows Host Monitoring               | [Cloud-SOC-Lab](https://github.com/rgdp1515/Cloud-SOC-lab) |
+| Security Orchestration & Response (SOAR)     | [Cloud-SOC-Lab](https://github.com/rgdp1515/Cloud-SOC-lab) |
+
 
 ## Tools
 
@@ -56,5 +62,6 @@ My journey has led me to develop a passion for cybersecurity, and I am eager to 
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+A full-scale Security Operations Center (SOC) deployed on VULTR to simulate attacks and monitor security telemetry.  
+[Cloud-Soc-Lab](https://github.com/rgdp1515/Cloud-SOC-lab)
+
